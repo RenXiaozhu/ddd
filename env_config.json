@@ -1,0 +1,202 @@
+{
+  "UnityExe" : "/Applications/Unity/Unity.app/Contents/MacOS/Unity",
+  "UnityExe2017" : "/Applications/Unity/Unity.app/Contents/MacOS/Unity",
+  "XcodeProjectPath" : "/../JYMF",
+  "PackagePath":"//192.168.1.208/work/game/NGame/iOS",
+  "GameID2ProjectPath" : [
+    {
+      "gameID" : "PC_INTRANET_PUBLISH",
+      "path" : "",
+      "area" : "Mainland",
+      "gameVersion" : "Master",
+      "netPath" : []
+    },
+    {
+      "gameID" : "ANDROID_INTRANET_PUBLISH",
+      "path" : "",
+      "area" : "Mainland",
+      "gameVersion" : "Master",
+      "netPath" : []
+    },
+    {
+      "gameID" : "IOS_INTRANET_PUBLISH",
+      "path" : "/Users/ueMac/Work/NGame/NGame-trunk/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "Master",
+      "netPath" : [
+        "//192.168.1.208/jylh/3"
+      ]
+    },
+    {
+      "gameID" : "PC_EXTERNAL_RELEASE",
+      "path" : "",
+      "area" : "Mainland",
+      "gameVersion" : "2Day",
+      "netPath" : []
+    },
+    {
+      "gameID" : "ANDROID_EXTERNAL_RELEASE",
+      "path" : "",
+      "area" : "Mainland",
+      "gameVersion" : "Master",
+      "netPath" : []
+    },
+    {
+      "gameID" : "IOS_EXTERNAL_RELEASE",
+      "path" : "/Users/ueMac/Work/NGame/20190306_lebian_test/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "37test",
+      "netPath" : [
+        "//192.168.1.208/jylh/6"
+      ]
+    },
+    {
+      "gameID" : "N2_IOS_INTRANET_PUBLISH",
+      "path" : "/Users/ueMac/Work/NGame/20171027NGame/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "2Day",
+      "netPath" : [
+        "//192.168.1.208/jylh/203"
+      ]
+    },
+    {
+      "gameID" : "N7_IOS_INTRANET_PUBLISH",
+      "path" : "/Users/ueMac/Work/NGame/20171216_7/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "I",
+      "netPath" : [
+        "//192.168.1.208/jylh/703"
+      ]
+    },
+    {
+      "gameID" : "N7_IOS_CENSORSHIP_PUBLISH",
+      "path" : "/Users/ueMac/Work/NGame/20171216_7/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "I",
+      "netPath" : [
+        "//192.168.1.222/jylh/803"
+      ]
+    },
+    {
+      "gameID" : "N7_IOS_INTRANET_PUBLISH",
+      "path" : "/Users/ueMac/Work/NGame/NGame20180413_7_2/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "J",
+      "netPath" : [
+        "//192.168.1.208/jylh/703"
+      ]
+    },
+    {
+      "gameID" : "IOS_INTRANET_DEBUG",
+      "path" : "/Users/ueMac/Work/NGame/20180620_7_3/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "K",
+      "netPath" : [
+        "//192.168.1.208/jylh/99"
+      ]
+    },
+    {
+      "gameID" : "IOS_INTRANET_DEBUG",
+      "path" : "/Users/ueMac/Work/NGame/20180808_PAY/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "L",
+      "netPath" : [
+        "//192.168.1.222/jylh/99"
+      ]
+    },
+     {
+      "gameID" : "IOS_INTRANET_DEBUG",
+      "path" : "/Users/ueMac/Work/NGame/20181017_beta/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "M",
+      "netPath" : [
+        "//192.168.1.208/jylh/99"
+      ]
+    },
+    {
+      "gameID" : "IOS_INTRANET_DEBUG",
+      "path" : "/Users/ueMac/Work/NGame/20190103_RC/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "N",
+      "netPath" : [
+        "//192.168.1.208/jylh/99"
+      ]
+    },
+    {
+      "gameID" : "N7_IOS_INTRANET_PUBLISH",
+      "path" : "/Users/ueMac/Work/NGame/20180620_7_3/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "K",
+      "netPath" : [
+        "//192.168.1.222/NGame/703"
+      ]
+    },
+    {
+      "gameID" : "N7_IOS_INTRANET_PUBLISH",
+      "path" : "/Users/ueMac/Work/NGame/20180808_PAY/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "L",
+      "netPath" : [
+        "//192.168.1.222/jylh/703"
+      ]
+    },
+    {
+      "gameID" : "N7_IOS_INTRANET_PUBLISH",
+      "path" : "/Users/ueMac/Work/NGame/20181017_beta/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "M",
+      "netPath" : [
+        "//192.168.1.208/jylh/703"
+      ]
+    },
+    {
+      "gameID" : "N7_IOS_INTRANET_PUBLISH",
+      "path" : "/Users/ueMac/Work/NGame/20190103_RC/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "N",
+      "netPath" : [
+        "//192.168.1.208/jylh/703"
+      ]
+    },
+    {
+      "gameID" : "N7_IOS_INTRANET_PUBLISH",
+      "path" : "/Users/ueMac/Work/NGame/20190316_A/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "O",
+      "netPath" : [
+        "//192.168.1.208/jylh/703"
+      ]
+    },
+    {
+      "gameID" : "APACK_IOS_INTRANET_PUBLISH",
+      "path" : "/Users/ueMac/Work/NGame/20190418_B/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "B",
+      "netPath" : [
+        "//192.168.1.208/jylh/707"
+      ]
+    },
+    {
+      "gameID" : "APACK_IOS_INTRANET_PUBLISH",
+      "path" : "/Users/ueMac/Work/NGame/20190430_C/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "C_Main",
+      "netPath" : [
+        "//192.168.1.208/jylh/707"
+      ]
+    },
+    {
+      "gameID" : "MAINLAND_IOS_APPSTORE_MULTI_PUBLISH",
+      "path" : "/Users/ueMac/Work/NGame/20190523_C_IOS_MULTI/NProject",
+      "area" : "Mainland",
+      "gameVersion" : "C_Multi",
+      "netPath" : [
+        "//192.168.1.208/jylh/708"
+      ]
+    }
+
+
+  ],
+  "ClientProjectPath" : "/../NClient",
+  "LogPath" : "/BuildLog.txt"
+}
